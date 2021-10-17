@@ -1,0 +1,9 @@
+Machine learning has seen use cases ranging from predicting customer behavior to developing the operating system for autonomous cars. 
+ 
+When it comes to profit, machine learning can help companies understand their customers on a deeper level. By collecting customer data and correlating it to behavior over time, machine learning algorithms can learn associations and help teams tailor product development and marketing initiatives to meet customer demand. 
+ 
+Some companies use machine learning as the main driver in their business models. For example, Uber uses algorithms to match drivers with passengers. Google uses machine learning to show the ads that generate search ads. 
+ 
+But machine learning has its drawbacks. First, it can be expensive. Machine learning projects are often driven by data scientists demanding high salaries. These projects also require a software infrastructure, which can be expensive. 
+ 
+There is also the problem of machine learning bias. Algorithms trained on data sets that exclude certain populations or contain errors can lead to inaccurate models of the world that are faulty at best and discriminatory at worst. If a company bases its core business processes on distorted models, it can lead to regulatory damage and reputational damage.
